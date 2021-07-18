@@ -3,7 +3,7 @@ import "./App.css";
 
 const api = {
   key: "8041ec40a57a39496481f160dc653911",
-  base: "http://api.openweathermap.org/data/2.5/",
+  base: "https://api-cors-dev.herokuapp.com/http://api.openweathermap.org/data/2.5/",
 };
 
 function App() {
